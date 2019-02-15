@@ -1,0 +1,2 @@
+RuleName,Description,Access,Protocol,Direction,Priority,SourceAddressPrefix,SourcePortRange,DestinationAddressPrefix,DestinationPortRange
+RDP,allow RDP,allow,TCP,inbound,100,Internet,*,*,3389
